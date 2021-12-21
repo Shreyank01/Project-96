@@ -1,0 +1,141 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.body_bg {
+	background: url("https://static.vecteezy.com/system/resources/previews/002/434/209/original/luxury-dark-black-gradient-background-business-elegant-presentation-banner-vector.jpg");
+	background-position: center;
+	background-size:cover;
+	;
+	
+}
+.body_bg2 {
+	background: url("https://i.pinimg.com/originals/38/51/8c/38518cc76d1965753247e4d35f82037a.jpg");
+	background-position: center;
+	background-size:cover;
+	
+	
+}
+#body_bg3 {
+	background: url("https://i.pinimg.com/originals/38/51/8c/38518cc76d1965753247e4d35f82037a.jpg");
+	background-position: center;
+	background-size:cover;
+	
+	
+}
+
+.main_cen
+{
+	border-width: 200px;
+	border-color:rgb(36, 36, 177);
+}
+.header
+{
+	color: white;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 65px;letter-spacing: 5px;margin-top: 200px;width: 500px;margin-left: 100px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	margin-top: -540px;
+	border-width: 8px;
+	border-style:solid ;
+	border-color:rgb(0, 65, 170);
+	box-shadow:20px 20px 10px rgba(0, 0, 0, 0.63);
+	background: rgb(24, 24, 24);float: right;height:600px;width:500px;margin-right: 30px;margin-left: 30px;border-radius: 30px;;
+	
+}
+
+.logo
+{
+	width: 170px;margin-top: 30px;border-radius: 40px;border-color: black;
+}
+
+.input_un {
+	border-style:solid;
+	border-color: rgb(0, 0, 0);
+	background:rgb(255, 255, 255);
+	transition: 0.9s;
+}
+
+.input_un:hover {
+	background:rgb(172, 255, 214);
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+	transition: 0.3s;
+}
+#login_button:hover {
+	background:rgb(57, 159, 255);
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+.div_addroom {
+	margin: 10px;
+	padding:20px;
+}
